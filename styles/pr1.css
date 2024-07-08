@@ -11,6 +11,9 @@ nav{
 .ac{
     text-align: center;
 }
+.pr{
+    margin-bottom: 40px;
+}
 .under{
     display: flex;
     justify-content: space-between;
@@ -67,15 +70,46 @@ main{
     justify-content: space-around;
     align-items: center;
     gap: 30px;
-    max-width:1140px;
+  
     height: 377px;
 }
 .f1{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
-    width: 267px;
+    width: 600px;
     height: 377px;
+    border: 2px solid orange;
+}
+.f1 img {
+  width: 44px;
+  height: 44px;
+}
+.pl col i{
+    width: 44px;
+    height: 44px;
+}
+.im img{
+    width:44px ;
+    height: 44px;
+}
+.foot{
+    display: flex;
+    
+    height: 780px;
+    padding: 130px 150px;
+   gap: 100px;
     
 }
+.colum{
+    width: 50%;
+}
+input[type="text"],input[type="email"],textarea{
+    width: 461px;
+    height: 64px;
+    display: block;
+    margin-bottom: 24px;
+    padding: 0px 10px;
+}
+
 .six{
     font-size: 16px;
 }
