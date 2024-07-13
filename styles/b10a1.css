@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.f1{
+    background-image: url('../Hero-bg.png');
+    height: 652px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid orange;
+    padding: 20px auto;
+}
+.d1{
+  width: 998px;
+  height: 582px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 2px solid orange;
+  
+}
+.p1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 48px;
+font-weight: 800;
+
+text-align: center;
+margin-bottom: 10px;
+}
+.c{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 400;
+}
+.p2{
+    text-align: center;
+}
+.b1{
+    margin-top: 20px;
+    border-radius: 8px;
+
+background: rgb(13, 19, 33);
+padding: 7px;
+border-style: none;
+}
+.con{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 22px;
+font-weight: 600;
+
+
+}
+.f2{
+    margin: 70px 120px 40px 150px;
+    width: 1140px;
+    height: 1395px;
+    border: 2px solid orange;
+    position: center;
+    
+}
+.d2{
+    margin: 70px 70px;
+   
+    height: 1235px;
+    border: 2px solid orange;
+    position: center;
+}
+.hc{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+text-align: center;
+margin-bottom: 20px;
+margin-top: 30px;
+}
+.id1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    
+}
+.h2c{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+margin-bottom: 20px;
+}
+.b2{
+    margin-top: 20px;
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+padding: 5px;
+}
+.b2t{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+}
+.id2{
+    margin-top: 80px;
+    display: flex;
+    gap: 30px;
+}
+.id3{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.f3{
+    width: 1140px;
+    height: 780px;
+    margin: 70px 120px 40px 150px;
+    border: 2px solid orange;
+    position: center  ;
+}
+.f4{
+    margin-top: 200px;
+    width: 1140px;
+    height: 500px;
+    margin: 70px 120px 40px 150px;
+    border: 2px solid orange;
+}
+.id4{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    
+   
+}
+.iid1{
+    padding:40px 20px;
+    width: 300px;
+   
+    border-radius: 16px;
+height: 200px;
+background: rgba(255, 76, 30, 0.05);
+}
+.iid2{
+    padding:40px 20px;
+    width: 300px;
+    border-radius: 16px;
+    height: 200px;
+
+background: rgba(0, 76, 232, 0.05);
+}
+.iid3{
+    padding:40px 20px;
+    width: 300px;
+    height: 200px;
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+}
+.f5{
+    width: 1140px;
+    height: 320px;
+    margin: 70px 120px 40px 150px;
+    border: 2px solid orange;
+    background-image: url('../assets/handshake.jpg');
+   
+    
+}
+.id5{
+    width: 1040px;
+    height: 190px;
+    margin: 50px 60px;
+    border: 2px solid orange;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+   
+}
+.id5t{
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+
+text-align: center;
+}
+.id5t2{
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+
+text-align: center;
+opacity: 0.7;
+margin-bottom: 40px;
+}
+.id5b1{
+    height: 57px;
+    width: 500px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+margin-right: 10px;
+}
+.id5b2{
+    height: 57px;
+    width: 120px;
+    border-radius: 8px;
+
+background: rgb(255, 255, 255);
+border-style: none;
+}
+.sub{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+
+}
+.sub1{
+    color: rgba(13, 19, 33, 0.4);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+padding-left:20px;
+}
+.f6{
+    height: 100px;
+    border: 2px solid orange;
+
+}
+.id6{
+    display: flex;
+    margin: 20px 150px;
+    border: 2px solid orange;
+    justify-content: space-between;
+}
+.d{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+
+}
